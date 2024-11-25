@@ -56,5 +56,3 @@ Invalid API Key: Ensures informative feedback if the API key is missing or inval
 Quota Issues: Handles API quota limits gracefully by notifying the user.
 Connection Errors: Captures and reports network or server-related issues.
 
-License
-This project is open-source and available under the MIT License.
