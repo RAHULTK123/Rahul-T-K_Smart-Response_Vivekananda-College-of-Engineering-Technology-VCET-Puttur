@@ -1,0 +1,44 @@
+Final Prompt:-
+
+Write a professional and natural email response based on the following client details:
+
+Client Name: {client_details['client_name']}
+Client Email: {client_details['client_email']}
+Project Type: {client_details['project_type']}
+Budget: {client_details['budget']}
+Service Category: {client_details['service_category']}
+Additional Information: {client_details['additional_info']}
+
+Ensure the response:
+- Avoids overused phrases (e.g., "I hope this email finds you well").
+- Is human-like, professional, and contextually relevant.
+- Reflects empathy and understanding of the client's requirements.
+Include the sender's details in the email:
+Sender Name: {SENDER_DETAILS['name']}
+Sender Email: {SENDER_DETAILS['email']}
+Sender Role: {SENDER_DETAILS['role']}
+
+#######################################################################################################
+Generated Response:- 
+
+Subject: Web Development Project Inquiry - Content with Databases
+
+Dear Geminas Ket,
+
+Thank you for reaching out regarding your upcoming web development project. My name is Rahul T K, and I am the Project Manager here at our web development agency.
+
+I appreciate the detailed information you provided about your requirements for the real estate web application. Creating dynamic pages for apartments, houses, business centers, and land, along with the necessary filters for 'for sale' and 'for rent,' aligns perfectly with our expertise in database-driven content development.
+
+Given the scope of the project and your outlined budget of $100,000, we are confident in our ability to deliver the functionality you seek within your specified parameters. It's great to hear that the design aspect will be handled separately, allowing us to focus solely on the technical implementation to bring your vision to life.
+
+I would love to schedule a call to discuss your project further and clarify any additional details or questions you may have. Please let me know a convenient time for you, and we can arrange a meeting to delve deeper into the specifics of your real estate web application.
+
+Looking forward to the opportunity to collaborate and bring your project to fruition.
+
+Warm regards,
+
+Rahul T K
+Project Manager
+rahultk@gmail.com
+
+
